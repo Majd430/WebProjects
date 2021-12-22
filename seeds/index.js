@@ -38,7 +38,7 @@ const seedDB = async () => {
         // }).send();
 
         const camp = new Campground({
-            author: "61c30f1703a29200152a92ae",
+            author: "60c61f2c4080e000158c5c0c",
             location: location,
             title: name,
             geometry: {
